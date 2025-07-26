@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./lerobot",
+        "./lerobot/src"
+    ]
+}
